@@ -11198,6 +11198,2418 @@
                     "Mogzilgor the Slasher"
                 ]
             ]
-        }
+        },
+        {
+            "name": "Items in a Dungeon",
+            "source": "RandomTables",
+            "page": "26-31",
+            "caption": "Item",
+            "colLabels": [
+                "d600",
+                "Result"
+            ],
+            "rows": [
+                [
+                    "1",
+                    "Elf skull"
+                ],
+                [
+                    "2",
+                    "Torn leggings"
+                ],
+                [
+                    "3",
+                    "Dead snake"
+                ],
+                [
+                    "4",
+                    "Beads (1D4)"
+                ],
+                [
+                    "5",
+                    "Leather apron"
+                ],
+                [
+                    "6",
+                    "Soap (half bar)"
+                ],
+                [
+                    "7",
+                    "Human skull"
+                ],
+                [
+                    "8",
+                    "Colored pebbles (1D8)"
+                ],
+                [
+                    "9",
+                    "Silver button with an anchor design"
+                ],
+                [
+                    "10",
+                    "Trowel"
+                ],
+                [
+                    "11",
+                    "Dwarf skull"
+                ],
+                [
+                    "12",
+                    "Dead toad"
+                ],
+                [
+                    "13",
+                    "Rusted iron spikes (1D8, 10\")"
+                ],
+                [
+                    "14",
+                    "Wax-sealed book (Roll once on a Book Title Table)"
+                ],
+                [
+                    "15",
+                    "Bear trap"
+                ],
+                [
+                    "16",
+                    "Thimble"
+                ],
+                [
+                    "17",
+                    "Halfling skeleton"
+                ],
+                [
+                    "18",
+                    "Bear claw"
+                ],
+                [
+                    "19",
+                    "Tin plate"
+                ],
+                [
+                    "20",
+                    "Dead bird"
+                ],
+                [
+                    "21",
+                    "Goblin toenail clippings"
+                ],
+                [
+                    "22",
+                    "Blue glass bottle"
+                ],
+                [
+                    "23",
+                    "Melted gold piece"
+                ],
+                [
+                    "24",
+                    "Lock of blonde hair"
+                ],
+                [
+                    "25",
+                    "Leather helmet"
+                ],
+                [
+                    "26",
+                    "Brooch (silver)"
+                ],
+                [
+                    "27",
+                    "Tiny golden snowflake"
+                ],
+                [
+                    "28",
+                    "Tiny iron chain (24')"
+                ],
+                [
+                    "29",
+                    "Moth-eaten jerkin"
+                ],
+                [
+                    "30",
+                    "Blocks of wood (1D12, 3\" x 3\")"
+                ],
+                [
+                    "31",
+                    "Small elephant statue (lapis lazuli)"
+                ],
+                [
+                    "32",
+                    "Human femur"
+                ],
+                [
+                    "33",
+                    "Bead necklace"
+                ],
+                [
+                    "34",
+                    "Bone staff"
+                ],
+                [
+                    "35",
+                    "Chessboard"
+                ],
+                [
+                    "36",
+                    "Chalk (1D8)"
+                ],
+                [
+                    "37",
+                    "Silver brooch with a leaf design"
+                ],
+                [
+                    "38",
+                    "Small stone with \"M\" carved in it"
+                ],
+                [
+                    "39",
+                    "Tin mask"
+                ],
+                [
+                    "40",
+                    "Bag of bones"
+                ],
+                [
+                    "41",
+                    "Old boot"
+                ],
+                [
+                    "42",
+                    "Marbles (1D10)"
+                ],
+                [
+                    "43",
+                    "Rusted crossbow"
+                ],
+                [
+                    "44",
+                    "Brooch (gold)"
+                ],
+                [
+                    "45",
+                    "Chrysalis (1')"
+                ],
+                [
+                    "46",
+                    "Rusted topaz ring"
+                ],
+                [
+                    "47",
+                    "Phoenix feather"
+                ],
+                [
+                    "48",
+                    "Rope (20')"
+                ],
+                [
+                    "49",
+                    "Windchime"
+                ],
+                [
+                    "50",
+                    "Brass spoon"
+                ],
+                [
+                    "51",
+                    "Wooden token"
+                ],
+                [
+                    "52",
+                    "Red ribbon (2')"
+                ],
+                [
+                    "53",
+                    "Moldy apple"
+                ],
+                [
+                    "54",
+                    "Dog skeleton"
+                ],
+                [
+                    "55",
+                    "Dead groundhog"
+                ],
+                [
+                    "56",
+                    "Pewter chess piece (bishop)"
+                ],
+                [
+                    "57",
+                    "Silver pieces (1D8)"
+                ],
+                [
+                    "58",
+                    "Broken short bow"
+                ],
+                [
+                    "59",
+                    "Broken broom"
+                ],
+                [
+                    "60",
+                    "Dwarven waistcoat"
+                ],
+                [
+                    "61",
+                    "Bent crowbar"
+                ],
+                [
+                    "62",
+                    "Dead body (orc)"
+                ],
+                [
+                    "63",
+                    "Signet ring of a missing noble"
+                ],
+                [
+                    "64",
+                    "Glass vial (empty)"
+                ],
+                [
+                    "65",
+                    "Broken clay pot"
+                ],
+                [
+                    "66",
+                    "Orc teeth (1D8)"
+                ],
+                [
+                    "67",
+                    "Gold pieces (1D8)"
+                ],
+                [
+                    "68",
+                    "Books (1D8 rolls on a Book Title Table)"
+                ],
+                [
+                    "69",
+                    "Purple glowing stone"
+                ],
+                [
+                    "70",
+                    "Basket"
+                ],
+                [
+                    "71",
+                    "String (84\")"
+                ],
+                [
+                    "72",
+                    "Dead spider"
+                ],
+                [
+                    "73",
+                    "Glass eye"
+                ],
+                [
+                    "74",
+                    "Rusted iron spikes (1D10, 8\")"
+                ],
+                [
+                    "75",
+                    "Painting of a landscape"
+                ],
+                [
+                    "76",
+                    "Wooden box (no lid, 2' x 3')"
+                ],
+                [
+                    "77",
+                    "Butterfly carving (mahogany)"
+                ],
+                [
+                    "78",
+                    "Dagger (new)"
+                ],
+                [
+                    "79",
+                    "Wooden staff"
+                ],
+                [
+                    "80",
+                    "Bent tin fork"
+                ],
+                [
+                    "81",
+                    "Orc teeth (1D6)"
+                ],
+                [
+                    "82",
+                    "Small dragon statue (jade)"
+                ],
+                [
+                    "83",
+                    "Colored pebbles (1D12)"
+                ],
+                [
+                    "84",
+                    "Gold necklace"
+                ],
+                [
+                    "85",
+                    "Small stone statue of a dwarven warrior"
+                ],
+                [
+                    "86",
+                    "Tiny silver horse statue"
+                ],
+                [
+                    "87",
+                    "Belt buckle"
+                ],
+                [
+                    "88",
+                    "Burlap tunic"
+                ],
+                [
+                    "89",
+                    "Pewter bowl"
+                ],
+                [
+                    "90",
+                    "Goblin teeth (1D4)"
+                ],
+                [
+                    "91",
+                    "Sundial"
+                ],
+                [
+                    "92",
+                    "Warm cup of tea"
+                ],
+                [
+                    "93",
+                    "Oak leaf"
+                ],
+                [
+                    "94",
+                    "Dented tin cup"
+                ],
+                [
+                    "95",
+                    "Tin dragon figurine"
+                ],
+                [
+                    "96",
+                    "Broken spear"
+                ],
+                [
+                    "97",
+                    "One gold piece"
+                ],
+                [
+                    "98",
+                    "Gold hairpin"
+                ],
+                [
+                    "99",
+                    "Human scalp"
+                ],
+                [
+                    "100",
+                    "Dead dog"
+                ],
+                [
+                    "101",
+                    "Tiny glowing stone"
+                ],
+                [
+                    "102",
+                    "Ripped bloody jerkin"
+                ],
+                [
+                    "103",
+                    "Key (iron)"
+                ],
+                [
+                    "104",
+                    "Brass button"
+                ],
+                [
+                    "105",
+                    "Torn pants"
+                ],
+                [
+                    "106",
+                    "Fossilized walrus tusk"
+                ],
+                [
+                    "107",
+                    "Torture tool kit"
+                ],
+                [
+                    "108",
+                    "Piece of red glass"
+                ],
+                [
+                    "109",
+                    "Rusted longsword"
+                ],
+                [
+                    "110",
+                    "Piece of coral"
+                ],
+                [
+                    "111",
+                    "Books (1D6 rolls on a Book Title Table)"
+                ],
+                [
+                    "112",
+                    "Iron nose ring"
+                ],
+                [
+                    "113",
+                    "Loaf of moldy bread"
+                ],
+                [
+                    "114",
+                    "Snakeskin (4')"
+                ],
+                [
+                    "115",
+                    "Elephant tusk"
+                ],
+                [
+                    "116",
+                    "Ivory earring"
+                ],
+                [
+                    "117",
+                    "Silver pieces (1D20)"
+                ],
+                [
+                    "118",
+                    "Quill"
+                ],
+                [
+                    "119",
+                    "Burnt body (halfling)"
+                ],
+                [
+                    "120",
+                    "Ceramic funeral urn (full of ashes)"
+                ],
+                [
+                    "121",
+                    "Wooden box (lid, 2' x 2')"
+                ],
+                [
+                    "122",
+                    "Glass jar full of eyeballs"
+                ],
+                [
+                    "123",
+                    "Silver ingot"
+                ],
+                [
+                    "124",
+                    "Whetstone"
+                ],
+                [
+                    "125",
+                    "Leather pouch (empty)"
+                ],
+                [
+                    "126",
+                    "Jug of water full of tadpoles"
+                ],
+                [
+                    "127",
+                    "Small green glass bottle"
+                ],
+                [
+                    "128",
+                    "Large clay pot"
+                ],
+                [
+                    "129",
+                    "Rusted needle"
+                ],
+                [
+                    "130",
+                    "Small glass globe with a figurine inside"
+                ],
+                [
+                    "131",
+                    "Stuffed beaver tail"
+                ],
+                [
+                    "132",
+                    "Severed orc arm"
+                ],
+                [
+                    "133",
+                    "Cat skeleton"
+                ],
+                [
+                    "134",
+                    "Stuffed oxtail"
+                ],
+                [
+                    "135",
+                    "Broken longsword"
+                ],
+                [
+                    "136",
+                    "Jack o' lantern"
+                ],
+                [
+                    "137",
+                    "Sack (empty)"
+                ],
+                [
+                    "138",
+                    "Iron mask"
+                ],
+                [
+                    "139",
+                    "Map of a bandit camp"
+                ],
+                [
+                    "140",
+                    "Candles (1D10)"
+                ],
+                [
+                    "141",
+                    "Dead rat"
+                ],
+                [
+                    "142",
+                    "Ogre skull"
+                ],
+                [
+                    "143",
+                    "Iron ingot"
+                ],
+                [
+                    "144",
+                    "Dead fish"
+                ],
+                [
+                    "145",
+                    "Metal chest"
+                ],
+                [
+                    "146",
+                    "Dead lizard"
+                ],
+                [
+                    "147",
+                    "Goblin skeleton"
+                ],
+                [
+                    "148",
+                    "Beads (1D12)"
+                ],
+                [
+                    "149",
+                    "Goblin skull"
+                ],
+                [
+                    "150",
+                    "Small gear"
+                ],
+                [
+                    "151",
+                    "Mosquito trapped in amber"
+                ],
+                [
+                    "152",
+                    "Peg leg"
+                ],
+                [
+                    "153",
+                    "Severed kobold head"
+                ],
+                [
+                    "154",
+                    "Hat with \"Crilis\" embroidered in it"
+                ],
+                [
+                    "155",
+                    "Button (gold)"
+                ],
+                [
+                    "156",
+                    "Iron ring"
+                ],
+                [
+                    "157",
+                    "Wolf pelt"
+                ],
+                [
+                    "158",
+                    "Small leaf (glass)"
+                ],
+                [
+                    "159",
+                    "Broken harp"
+                ],
+                [
+                    "160",
+                    "Hawk talon"
+                ],
+                [
+                    "161",
+                    "Shattered glass"
+                ],
+                [
+                    "162",
+                    "Button (copper)"
+                ],
+                [
+                    "163",
+                    "Cocoon (1' x 3')"
+                ],
+                [
+                    "164",
+                    "Rotten waterskin"
+                ],
+                [
+                    "165",
+                    "Decayed book"
+                ],
+                [
+                    "166",
+                    "Dragon claw"
+                ],
+                [
+                    "167",
+                    "\"Fuller\" written in blood on the floor"
+                ],
+                [
+                    "168",
+                    "Silver pieces (1D4)"
+                ],
+                [
+                    "169",
+                    "Dead mule"
+                ],
+                [
+                    "170",
+                    "Pile of large bones (1D20)"
+                ],
+                [
+                    "171",
+                    "Tin knee guard"
+                ],
+                [
+                    "172",
+                    "Leather strap (1\" x 2')"
+                ],
+                [
+                    "173",
+                    "Silver necklace"
+                ],
+                [
+                    "174",
+                    "Musty cloak"
+                ],
+                [
+                    "175",
+                    "Cracked crystal orb"
+                ],
+                [
+                    "176",
+                    "Pile of dead flies"
+                ],
+                [
+                    "177",
+                    "Goblin teeth (1D20)"
+                ],
+                [
+                    "178",
+                    "Broken vase"
+                ],
+                [
+                    "179",
+                    "Glass box full of butterfly wings (1D12)"
+                ],
+                [
+                    "180",
+                    "Tin hook"
+                ],
+                [
+                    "181",
+                    "Torn backpack"
+                ],
+                [
+                    "182",
+                    "Rotten gourd"
+                ],
+                [
+                    "183",
+                    "Orc fang"
+                ],
+                [
+                    "184",
+                    "Brass key with a dragon head design"
+                ],
+                [
+                    "185",
+                    "Iron shears"
+                ],
+                [
+                    "186",
+                    "\"Morling\" scratched on the wall"
+                ],
+                [
+                    "187",
+                    "Silver knife"
+                ],
+                [
+                    "188",
+                    "Wooden pole (10')"
+                ],
+                [
+                    "189",
+                    "Broken short sword"
+                ],
+                [
+                    "190",
+                    "Cloven shield"
+                ],
+                [
+                    "191",
+                    "Cowhide"
+                ],
+                [
+                    "192",
+                    "Nail"
+                ],
+                [
+                    "193",
+                    "Wooden shoe"
+                ],
+                [
+                    "194",
+                    "Halfling skull"
+                ],
+                [
+                    "195",
+                    "Rusted shackles"
+                ],
+                [
+                    "196",
+                    "Blocks of wood (1D10, 2\" x 5\")"
+                ],
+                [
+                    "197",
+                    "Burned body (gnome)"
+                ],
+                [
+                    "198",
+                    "Rags (1D8)"
+                ],
+                [
+                    "199",
+                    "Half a gold piece"
+                ],
+                [
+                    "200",
+                    "Lead nugget"
+                ],
+                [
+                    "201",
+                    "Leather gauntlet"
+                ],
+                [
+                    "202",
+                    "Copper pieces (1D10)"
+                ],
+                [
+                    "203",
+                    "Voodoo doll (with pins)"
+                ],
+                [
+                    "204",
+                    "Goat hide stretched over tanning rack"
+                ],
+                [
+                    "205",
+                    "Beads (1D20)"
+                ],
+                [
+                    "206",
+                    "Arrowhead (iron)"
+                ],
+                [
+                    "207",
+                    "Dragon scale"
+                ],
+                [
+                    "208",
+                    "Copper pieces (1D20)"
+                ],
+                [
+                    "209",
+                    "Candles (1D6)"
+                ],
+                [
+                    "210",
+                    "Leather pouch (empty)"
+                ],
+                [
+                    "211",
+                    "Leather strap (1\" x 2')"
+                ],
+                [
+                    "212",
+                    "Bloody bandage"
+                ],
+                [
+                    "213",
+                    "Small polished black stone"
+                ],
+                [
+                    "214",
+                    "Severed dwarf finger"
+                ],
+                [
+                    "215",
+                    "Brass nose ring"
+                ],
+                [
+                    "216",
+                    "Rope (100')"
+                ],
+                [
+                    "217",
+                    "Chalk (1D6)"
+                ],
+                [
+                    "218",
+                    "Broken shovel"
+                ],
+                [
+                    "219",
+                    "Colored pebbles (1D20)"
+                ],
+                [
+                    "220",
+                    "Jawbone of a donkey"
+                ],
+                [
+                    "221",
+                    "Iron tongs"
+                ],
+                [
+                    "222",
+                    "Rotten wood (3\" x 2')"
+                ],
+                [
+                    "223",
+                    "Dead pig"
+                ],
+                [
+                    "224",
+                    "Gold ring"
+                ],
+                [
+                    "225",
+                    "Faded painting of a little girl"
+                ],
+                [
+                    "226",
+                    "Pool of a tar-like substance"
+                ],
+                [
+                    "227",
+                    "\"Gulwulf\" scratched into the floor"
+                ],
+                [
+                    "228",
+                    "Partially burned blanket"
+                ],
+                [
+                    "229",
+                    "Longsword (orc make)"
+                ],
+                [
+                    "230",
+                    "Crushed candle"
+                ],
+                [
+                    "231",
+                    "Pile of small bones (1D100)"
+                ],
+                [
+                    "232",
+                    "Silver ring"
+                ],
+                [
+                    "233",
+                    "Puddle of slime"
+                ],
+                [
+                    "234",
+                    "Books (1D10 rolls on a Book Title Table)"
+                ],
+                [
+                    "235",
+                    "Pair of bone dice"
+                ],
+                [
+                    "236",
+                    "Eagle talon"
+                ],
+                [
+                    "237",
+                    "Half a silver piece"
+                ],
+                [
+                    "238",
+                    "Mouse droppings"
+                ],
+                [
+                    "239",
+                    "Books (1D12 rolls on a Book Title Table)"
+                ],
+                [
+                    "240",
+                    "Mirror (1' x 4')"
+                ],
+                [
+                    "241",
+                    "Candles (1D4)"
+                ],
+                [
+                    "242",
+                    "One silver piece"
+                ],
+                [
+                    "243",
+                    "Chalk (1D20)"
+                ],
+                [
+                    "244",
+                    "Copper pieces (1D6)"
+                ],
+                [
+                    "245",
+                    "Square gold coin with a torch design"
+                ],
+                [
+                    "246",
+                    "Blood-soaked cloak"
+                ],
+                [
+                    "247",
+                    "Copper wire"
+                ],
+                [
+                    "248",
+                    "Tiny gold nugget"
+                ],
+                [
+                    "249",
+                    "Half-burned love letter"
+                ],
+                [
+                    "250",
+                    "Button (silver)"
+                ],
+                [
+                    "251",
+                    "Scarecrow"
+                ],
+                [
+                    "252",
+                    "Short sword (goblin make)"
+                ],
+                [
+                    "253",
+                    "Teacup"
+                ],
+                [
+                    "254",
+                    "Orc teeth (1D20)"
+                ],
+                [
+                    "255",
+                    "Bent longsword"
+                ],
+                [
+                    "256",
+                    "Broken wine bottle"
+                ],
+                [
+                    "257",
+                    "Wine bottle (full)"
+                ],
+                [
+                    "258",
+                    "Silver arrow"
+                ],
+                [
+                    "259",
+                    "Leather armor"
+                ],
+                [
+                    "260",
+                    "Leather strips (1D6, 1\"x6')"
+                ],
+                [
+                    "261",
+                    "Silver earring"
+                ],
+                [
+                    "262",
+                    "Gold key with a shield design"
+                ],
+                [
+                    "263",
+                    "Barrel (empty)"
+                ],
+                [
+                    "264",
+                    "Puddle of blood"
+                ],
+                [
+                    "265",
+                    "Pile of dead ants"
+                ],
+                [
+                    "266",
+                    "Shattered clay pot"
+                ],
+                [
+                    "267",
+                    "Dead bat"
+                ],
+                [
+                    "268",
+                    "Torn tunic"
+                ],
+                [
+                    "269",
+                    "Dead sapling"
+                ],
+                [
+                    "270",
+                    "Dented bronze basin"
+                ],
+                [
+                    "271",
+                    "Keyring (1D6 keys, iron)"
+                ],
+                [
+                    "272",
+                    "Chalk (1D10)"
+                ],
+                [
+                    "273",
+                    "Roc feather"
+                ],
+                [
+                    "274",
+                    "Small piece of flint"
+                ],
+                [
+                    "275",
+                    "Small brass tree"
+                ],
+                [
+                    "276",
+                    "Goblin droppings"
+                ],
+                [
+                    "277",
+                    "Horse collar"
+                ],
+                [
+                    "278",
+                    "Glass jar with an orc ear inside"
+                ],
+                [
+                    "279",
+                    "Orc droppings"
+                ],
+                [
+                    "280",
+                    "Broken porcelain bowl"
+                ],
+                [
+                    "281",
+                    "Wax sealed vial that appears empty"
+                ],
+                [
+                    "282",
+                    "Bent tin spoon"
+                ],
+                [
+                    "283",
+                    "Dead body (adventurer)"
+                ],
+                [
+                    "284",
+                    "Small clay figurine of an elven female"
+                ],
+                [
+                    "285",
+                    "Lead balls (1D4, 3\")"
+                ],
+                [
+                    "286",
+                    "Severed orc hand"
+                ],
+                [
+                    "287",
+                    "Mushrooms"
+                ],
+                [
+                    "288",
+                    "Orc skeleton"
+                ],
+                [
+                    "289",
+                    "Glass jar with a green vapor inside"
+                ],
+                [
+                    "290",
+                    "Broken table"
+                ],
+                [
+                    "291",
+                    "Broken chain link"
+                ],
+                [
+                    "292",
+                    "Hammer"
+                ],
+                [
+                    "293",
+                    "Burned body (human)"
+                ],
+                [
+                    "294",
+                    "Sling stones (1D6)"
+                ],
+                [
+                    "295",
+                    "Silver coin from an ancient kingdom"
+                ],
+                [
+                    "296",
+                    "Cat of nine tails"
+                ],
+                [
+                    "297",
+                    "Elf skeleton"
+                ],
+                [
+                    "298",
+                    "Map to a dungeon"
+                ],
+                [
+                    "299",
+                    "Hawk feather"
+                ],
+                [
+                    "300",
+                    "Blocks of wood (1D6, 2\" x 2\")"
+                ],
+                [
+                    "301",
+                    "Dagger (goblin make)"
+                ],
+                [
+                    "302",
+                    "Old rope (8')"
+                ],
+                [
+                    "303",
+                    "Rat's nest"
+                ],
+                [
+                    "304",
+                    "Human teeth (1D8)"
+                ],
+                [
+                    "305",
+                    "Branch with a flowering bud"
+                ],
+                [
+                    "306",
+                    "Moldy piece of cheese"
+                ],
+                [
+                    "307",
+                    "Colored pebbles (1D4)"
+                ],
+                [
+                    "308",
+                    "Iron collar"
+                ],
+                [
+                    "309",
+                    "Broken abacus"
+                ],
+                [
+                    "310",
+                    "Sole of a shoe"
+                ],
+                [
+                    "311",
+                    "Bronze bust a noble"
+                ],
+                [
+                    "312",
+                    "Gold pieces (1D4)"
+                ],
+                [
+                    "313",
+                    "Book with blank pages"
+                ],
+                [
+                    "314",
+                    "One copper piece"
+                ],
+                [
+                    "315",
+                    "Copper pieces (1D4)"
+                ],
+                [
+                    "316",
+                    "Whip"
+                ],
+                [
+                    "317",
+                    "Rusted iron ring"
+                ],
+                [
+                    "318",
+                    "Ornate smoking pipe"
+                ],
+                [
+                    "319",
+                    "Dead body (goblin)"
+                ],
+                [
+                    "320",
+                    "Silk scarf"
+                ],
+                [
+                    "321",
+                    "Dead mice (1D20)"
+                ],
+                [
+                    "322",
+                    "Clay figurine of a warrior"
+                ],
+                [
+                    "323",
+                    "Copper button with a crown design"
+                ],
+                [
+                    "324",
+                    "Gold pieces (1D20)"
+                ],
+                [
+                    "325",
+                    "Gold button with a lion design"
+                ],
+                [
+                    "326",
+                    "Cocoon (3'x4')"
+                ],
+                [
+                    "327",
+                    "Live fireflies (1D100)"
+                ],
+                [
+                    "328",
+                    "Shattered onyx orb"
+                ],
+                [
+                    "329",
+                    "Silver spoon"
+                ],
+                [
+                    "330",
+                    "Pitchfork"
+                ],
+                [
+                    "331",
+                    "Human tooth"
+                ],
+                [
+                    "332",
+                    "Feather pillow"
+                ],
+                [
+                    "333",
+                    "Burnt torch"
+                ],
+                [
+                    "334",
+                    "Tiny golden scarab"
+                ],
+                [
+                    "335",
+                    "Glass slipper"
+                ],
+                [
+                    "336",
+                    "Old glove"
+                ],
+                [
+                    "337",
+                    "Lantern"
+                ],
+                [
+                    "338",
+                    "Blocks of wood (1D10, 3\" x 6\")"
+                ],
+                [
+                    "339",
+                    "Broken arrow"
+                ],
+                [
+                    "340",
+                    "Broken crossbow bolt"
+                ],
+                [
+                    "341",
+                    "Map case (locked)"
+                ],
+                [
+                    "342",
+                    "Dog skull"
+                ],
+                [
+                    "343",
+                    "Fireplace poker"
+                ],
+                [
+                    "344",
+                    "Bucket of filthy water"
+                ],
+                [
+                    "345",
+                    "Silver pieces (1D10)"
+                ],
+                [
+                    "346",
+                    "Child's rag doll"
+                ],
+                [
+                    "347",
+                    "Bronze belt buckle"
+                ],
+                [
+                    "348",
+                    "Dented bronze cup"
+                ],
+                [
+                    "349",
+                    "Dead chicken"
+                ],
+                [
+                    "350",
+                    "Lion skull"
+                ],
+                [
+                    "351",
+                    "Briddle"
+                ],
+                [
+                    "352",
+                    "Copper armband with battle scene design"
+                ],
+                [
+                    "353",
+                    "Shattered mirror"
+                ],
+                [
+                    "354",
+                    "Crutch"
+                ],
+                [
+                    "355",
+                    "Tinder box"
+                ],
+                [
+                    "356",
+                    "Rusted iron spikes (1D4, 6\")"
+                ],
+                [
+                    "357",
+                    "Rusted dagger"
+                ],
+                [
+                    "358",
+                    "Rusted mace"
+                ],
+                [
+                    "359",
+                    "Half-burned map"
+                ],
+                [
+                    "360",
+                    "Burned body (elf)"
+                ],
+                [
+                    "361",
+                    "Wax-sealed letter"
+                ],
+                [
+                    "362",
+                    "Glass jar with a fairy inside"
+                ],
+                [
+                    "363",
+                    "Books (1D4 rolls on a Book Title Table)"
+                ],
+                [
+                    "364",
+                    "Colored pebbles (1D10)"
+                ],
+                [
+                    "365",
+                    "Moldy rations"
+                ],
+                [
+                    "366",
+                    "Dead beetle"
+                ],
+                [
+                    "367",
+                    "Beartrap"
+                ],
+                [
+                    "368",
+                    "Sword hilt"
+                ],
+                [
+                    "369",
+                    "Candles (1D8)"
+                ],
+                [
+                    "370",
+                    "Bloody goblin footprint"
+                ],
+                [
+                    "371",
+                    "Remnants of a burned map"
+                ],
+                [
+                    "372",
+                    "Broken pike"
+                ],
+                [
+                    "373",
+                    "Small piece of quartz"
+                ],
+                [
+                    "374",
+                    "Remnants of a burned book"
+                ],
+                [
+                    "375",
+                    "Severed goblin foot"
+                ],
+                [
+                    "376",
+                    "Orc skull"
+                ],
+                [
+                    "377",
+                    "Small fossil"
+                ],
+                [
+                    "378",
+                    "Pulley"
+                ],
+                [
+                    "379",
+                    "Adventurer's notebook"
+                ],
+                [
+                    "380",
+                    "Cat tooth"
+                ],
+                [
+                    "381",
+                    "Map of a nearby town"
+                ],
+                [
+                    "382",
+                    "Ancient key (bone)"
+                ],
+                [
+                    "383",
+                    "Broken quarterstaff"
+                ],
+                [
+                    "384",
+                    "Blocks of wood (1D20, 4\" x 4\")"
+                ],
+                [
+                    "385",
+                    "Copper pieces (1D8)"
+                ],
+                [
+                    "386",
+                    "Mirror (1' x 4')"
+                ],
+                [
+                    "387",
+                    "Piece of coal"
+                ],
+                [
+                    "388",
+                    "Rusty hooks (1D4)"
+                ],
+                [
+                    "389",
+                    "Blocks of wood (1D6, 3\" x 3\")"
+                ],
+                [
+                    "390",
+                    "Preserved raven wing"
+                ],
+                [
+                    "391",
+                    "Silver key with a star on it"
+                ],
+                [
+                    "392",
+                    "Large iron hook"
+                ],
+                [
+                    "393",
+                    "Bloody handprint (human)"
+                ],
+                [
+                    "394",
+                    "Lamp"
+                ],
+                [
+                    "395",
+                    "Glass vial (one drop of clear liquid)"
+                ],
+                [
+                    "396",
+                    "Broken porcelain vase"
+                ],
+                [
+                    "397",
+                    "Wooden pole (8')"
+                ],
+                [
+                    "398",
+                    "Small seashell"
+                ],
+                [
+                    "399",
+                    "Shoe buckle"
+                ],
+                [
+                    "400",
+                    "Dead horse"
+                ],
+                [
+                    "401",
+                    "Crystal ball"
+                ],
+                [
+                    "402",
+                    "Rusted iron spikes (1D6, 6\")"
+                ],
+                [
+                    "403",
+                    "Shiny rock"
+                ],
+                [
+                    "404",
+                    "Yellow flower growing in a clay pot"
+                ],
+                [
+                    "405",
+                    "Flask of holy water"
+                ],
+                [
+                    "406",
+                    "Inkwell (dry)"
+                ],
+                [
+                    "407",
+                    "Stuffed monkey doll"
+                ],
+                [
+                    "408",
+                    "Broken longbow"
+                ],
+                [
+                    "409",
+                    "Frying pan"
+                ],
+                [
+                    "410",
+                    "Ornate beer stein"
+                ],
+                [
+                    "411",
+                    "Bust of an ancient queen"
+                ],
+                [
+                    "412",
+                    "Colored pebbles (1D6)"
+                ],
+                [
+                    "413",
+                    "Glass pitcher filled with yellow dust"
+                ],
+                [
+                    "414",
+                    "Wolf's tooth"
+                ],
+                [
+                    "415",
+                    "Wooden mask"
+                ],
+                [
+                    "416",
+                    "Rusted iron spikes (1D20, 4\")"
+                ],
+                [
+                    "417",
+                    "Hymnbook"
+                ],
+                [
+                    "418",
+                    "Silver pieces (1D12)"
+                ],
+                [
+                    "419",
+                    "Shattered hourglass"
+                ],
+                [
+                    "420",
+                    "Chicken feather"
+                ],
+                [
+                    "421",
+                    "Broom"
+                ],
+                [
+                    "422",
+                    "Tin ring"
+                ],
+                [
+                    "423",
+                    "Ceramic funeral urn (empty)"
+                ],
+                [
+                    "424",
+                    "Music box"
+                ],
+                [
+                    "425",
+                    "Bloody handkerchief"
+                ],
+                [
+                    "426",
+                    "Iron bar (2')"
+                ],
+                [
+                    "427",
+                    "Wooden chest"
+                ],
+                [
+                    "428",
+                    "Beads (1D8)"
+                ],
+                [
+                    "429",
+                    "Gold pieces (1D6)"
+                ],
+                [
+                    "430",
+                    "Bloody bandages"
+                ],
+                [
+                    "431",
+                    "Broken viol"
+                ],
+                [
+                    "432",
+                    "Beads (1D10)"
+                ],
+                [
+                    "433",
+                    "Gold pieces (1D10)"
+                ],
+                [
+                    "434",
+                    "Pan flute"
+                ],
+                [
+                    "435",
+                    "Small clay pot"
+                ],
+                [
+                    "436",
+                    "Message in a bottle"
+                ],
+                [
+                    "437",
+                    "Half a copper piece"
+                ],
+                [
+                    "438",
+                    "Raven beak"
+                ],
+                [
+                    "439",
+                    "Sharpened iron spoon"
+                ],
+                [
+                    "440",
+                    "Glass skull"
+                ],
+                [
+                    "441",
+                    "Small glass orb"
+                ],
+                [
+                    "442",
+                    "Pin"
+                ],
+                [
+                    "443",
+                    "Cloth shears"
+                ],
+                [
+                    "444",
+                    "Eagle skeleton"
+                ],
+                [
+                    "445",
+                    "\"Help me,\" spelled with small stones"
+                ],
+                [
+                    "446",
+                    "Pile of kindling"
+                ],
+                [
+                    "447",
+                    "Large cat paw print"
+                ],
+                [
+                    "448",
+                    "Small wooden flute"
+                ],
+                [
+                    "449",
+                    "Broken lyre"
+                ],
+                [
+                    "450",
+                    "Small polished red stone"
+                ],
+                [
+                    "451",
+                    "Lead balls (1D8, 1\")"
+                ],
+                [
+                    "452",
+                    "Wine bottle (half full)"
+                ],
+                [
+                    "453",
+                    "Dead swan"
+                ],
+                [
+                    "454",
+                    "Sharktooth"
+                ],
+                [
+                    "455",
+                    "Fragments of a hatched egg (small)"
+                ],
+                [
+                    "456",
+                    "Silver fork"
+                ],
+                [
+                    "457",
+                    "Orc teeth (1D10)"
+                ],
+                [
+                    "458",
+                    "Rat droppings"
+                ],
+                [
+                    "459",
+                    "Wolf tooth necklace"
+                ],
+                [
+                    "460",
+                    "Goblin tooth"
+                ],
+                [
+                    "461",
+                    "Goblin teeth (1D10)"
+                ],
+                [
+                    "462",
+                    "Ivory staff"
+                ],
+                [
+                    "463",
+                    "Broken candle"
+                ],
+                [
+                    "464",
+                    "Stuffed lizard"
+                ],
+                [
+                    "465",
+                    "Dogtooth"
+                ],
+                [
+                    "466",
+                    "Jar with a human eye floating in liquid"
+                ],
+                [
+                    "467",
+                    "Blocks of wood (1D4, 3\" x 3\")"
+                ],
+                [
+                    "468",
+                    "Longbow"
+                ],
+                [
+                    "469",
+                    "Pouch (empty)"
+                ],
+                [
+                    "470",
+                    "Quadrant"
+                ],
+                [
+                    "471",
+                    "Orc bodies (1D8)"
+                ],
+                [
+                    "472",
+                    "Silver button with an \"S\" design"
+                ],
+                [
+                    "473",
+                    "Blocks of wood (1D6, 3\" x 3\")"
+                ],
+                [
+                    "474",
+                    "Dagger sheath"
+                ],
+                [
+                    "475",
+                    "Caged butterfly"
+                ],
+                [
+                    "476",
+                    "Gold pieces (1D12)"
+                ],
+                [
+                    "477",
+                    "Raven feather"
+                ],
+                [
+                    "478",
+                    "Golden feather"
+                ],
+                [
+                    "479",
+                    "Bloody rags"
+                ],
+                [
+                    "480",
+                    "Dwarf skeleton"
+                ],
+                [
+                    "481",
+                    "Ivory clasp with a whale design"
+                ],
+                [
+                    "482",
+                    "Starving dog"
+                ],
+                [
+                    "483",
+                    "Silver pieces (1D6)"
+                ],
+                [
+                    "484",
+                    "Rusted chain (2')"
+                ],
+                [
+                    "485",
+                    "Dead robin"
+                ],
+                [
+                    "486",
+                    "Severed human head"
+                ],
+                [
+                    "487",
+                    "Amber with a mosquito inside"
+                ],
+                [
+                    "488",
+                    "Rusted lock"
+                ],
+                [
+                    "489",
+                    "Map of the dungeon"
+                ],
+                [
+                    "490",
+                    "Stone basin"
+                ],
+                [
+                    "491",
+                    "Tiger skull"
+                ],
+                [
+                    "492",
+                    "Dead squirrel"
+                ],
+                [
+                    "493",
+                    "Tiny jade lion statue"
+                ],
+                [
+                    "494",
+                    "Arrow (bone)"
+                ],
+                [
+                    "495",
+                    "Burnt body (dwarf)"
+                ],
+                [
+                    "496",
+                    "Chalk (1D4)"
+                ],
+                [
+                    "497",
+                    "Copper ring"
+                ],
+                [
+                    "498",
+                    "Fragments of a hatched egg (large)"
+                ],
+                [
+                    "499",
+                    "Spear (goblin make)"
+                ],
+                [
+                    "500",
+                    "Chalk (1D12)"
+                ],
+                [
+                    "501",
+                    "Stuffed cat"
+                ],
+                [
+                    "502",
+                    "Holy symbol"
+                ],
+                [
+                    "503",
+                    "Marbles (1D20)"
+                ],
+                [
+                    "504",
+                    "Rusty nails (1D6)"
+                ],
+                [
+                    "505",
+                    "Broken chair"
+                ],
+                [
+                    "506",
+                    "Crumbled hat"
+                ],
+                [
+                    "507",
+                    "Flask of oil"
+                ],
+                [
+                    "508",
+                    "Basket of fresh fruit"
+                ],
+                [
+                    "509",
+                    "Human skulls (1D10)"
+                ],
+                [
+                    "510",
+                    "Rusted iron spikes (1D8, 6\")"
+                ],
+                [
+                    "511",
+                    "Paintbrush"
+                ],
+                [
+                    "512",
+                    "Glass beads (1D100)"
+                ],
+                [
+                    "513",
+                    "Broken staff"
+                ],
+                [
+                    "514",
+                    "Iron door handle"
+                ],
+                [
+                    "515",
+                    "Dagger with a bone hilt"
+                ],
+                [
+                    "516",
+                    "Dead cockroaches (1D100)"
+                ],
+                [
+                    "517",
+                    "Weeping Statue"
+                ],
+                [
+                    "518",
+                    "Human teeth (1D10)"
+                ],
+                [
+                    "519",
+                    "Blocks of wood (1D8, 3\" x 4\")"
+                ],
+                [
+                    "520",
+                    "Drawing of a shooting star on parchment"
+                ],
+                [
+                    "521",
+                    "Iron arm bracelet"
+                ],
+                [
+                    "522",
+                    "Dagger"
+                ],
+                [
+                    "523",
+                    "Inkwell"
+                ],
+                [
+                    "524",
+                    "Ash in the shape of a body"
+                ],
+                [
+                    "525",
+                    "Dead raven"
+                ],
+                [
+                    "526",
+                    "Fish hook"
+                ],
+                [
+                    "527",
+                    "Leather-working needle"
+                ],
+                [
+                    "528",
+                    "Nails (1D12)"
+                ],
+                [
+                    "529",
+                    "Rusted iron spikes (1D12, 6\")"
+                ],
+                [
+                    "530",
+                    "Wooden spoon"
+                ],
+                [
+                    "531",
+                    "Pewter amulet"
+                ],
+                [
+                    "532",
+                    "Book (Roll once on a Book Title Table)"
+                ],
+                [
+                    "533",
+                    "Rusted short sword"
+                ],
+                [
+                    "534",
+                    "Astrolabe"
+                ],
+                [
+                    "535",
+                    "White flowers growing on the floor"
+                ],
+                [
+                    "536",
+                    "Broken hammer"
+                ],
+                [
+                    "537",
+                    "Auger"
+                ],
+                [
+                    "538",
+                    "Arrowhead (flint)"
+                ],
+                [
+                    "539",
+                    "Small lizard statue (ivory)"
+                ],
+                [
+                    "540",
+                    "Goblin teeth (1D6)"
+                ],
+                [
+                    "541",
+                    "Crystal shard"
+                ],
+                [
+                    "542",
+                    "Small wooden boat"
+                ],
+                [
+                    "543",
+                    "Canvas (2' x 6')"
+                ],
+                [
+                    "544",
+                    "Bronze candlestick"
+                ],
+                [
+                    "545",
+                    "Quill dipped in blood"
+                ],
+                [
+                    "546",
+                    "Human skeleton"
+                ],
+                [
+                    "547",
+                    "Cow skull"
+                ],
+                [
+                    "548",
+                    "Ox horn"
+                ],
+                [
+                    "549",
+                    "Old belt"
+                ],
+                [
+                    "550",
+                    "Copper coin from a legendary kingdom"
+                ],
+                [
+                    "551",
+                    "Pile of fine sand"
+                ],
+                [
+                    "552",
+                    "Rusty horseshoe"
+                ],
+                [
+                    "553",
+                    "Candleholder"
+                ],
+                [
+                    "554",
+                    "Ivory chess piece (queen)"
+                ],
+                [
+                    "555",
+                    "Bear skull"
+                ],
+                [
+                    "556",
+                    "Wooden pole (6')"
+                ],
+                [
+                    "557",
+                    "Beads (1D6)"
+                ],
+                [
+                    "558",
+                    "Rotten wood (5\" x 3')"
+                ],
+                [
+                    "559",
+                    "Shovel"
+                ],
+                [
+                    "560",
+                    "Wooden bowl full of berries"
+                ],
+                [
+                    "561",
+                    "Caged monkey"
+                ],
+                [
+                    "562",
+                    "Lizard skeleton"
+                ],
+                [
+                    "563",
+                    "Iron box (locked, 1'x2')"
+                ],
+                [
+                    "564",
+                    "Large cat skeleton"
+                ],
+                [
+                    "565",
+                    "Small rock carved like an eye"
+                ],
+                [
+                    "566",
+                    "Rusted battleaxe"
+                ],
+                [
+                    "567",
+                    "Small glass swan"
+                ],
+                [
+                    "568",
+                    "Dead rose"
+                ],
+                [
+                    "569",
+                    "Glass vial (full of a red liquid)"
+                ],
+                [
+                    "570",
+                    "Ivory comb"
+                ],
+                [
+                    "571",
+                    "Ogre's toe"
+                ],
+                [
+                    "572",
+                    "Wooden bowl"
+                ],
+                [
+                    "573",
+                    "Silver locket"
+                ],
+                [
+                    "574",
+                    "Deer antlers"
+                ],
+                [
+                    "575",
+                    "Severed human finger"
+                ],
+                [
+                    "576",
+                    "Lute string"
+                ],
+                [
+                    "577",
+                    "String bracelet"
+                ],
+                [
+                    "578",
+                    "Broken lantern"
+                ],
+                [
+                    "579",
+                    "Dead raccoon"
+                ],
+                [
+                    "580",
+                    "Small brass horse statue"
+                ],
+                [
+                    "581",
+                    "Dustpan"
+                ],
+                [
+                    "582",
+                    "Iron key with a skull design"
+                ],
+                [
+                    "583",
+                    "Caltrops (1D20)"
+                ],
+                [
+                    "584",
+                    "Copper pieces (1D12)"
+                ],
+                [
+                    "585",
+                    "Decayed leather armor"
+                ],
+                [
+                    "586",
+                    "Torn burlap sack"
+                ],
+                [
+                    "587",
+                    "Handkerchief with an \"S\" on it"
+                ],
+                [
+                    "588",
+                    "Lead balls (1D12, 2\")"
+                ],
+                [
+                    "589",
+                    "Golden Harp"
+                ],
+                [
+                    "590",
+                    "Decayed scroll"
+                ],
+                [
+                    "591",
+                    "Bedroll covered in mildew"
+                ],
+                [
+                    "592",
+                    "Leather belt"
+                ],
+                [
+                    "593",
+                    "Goblin bodies (1D20)"
+                ],
+                [
+                    "594",
+                    "Eagle beak"
+                ],
+                [
+                    "595",
+                    "Unfinished poem on vellum"
+                ],
+                [
+                    "596",
+                    "Ripped pouch"
+                ],
+                [
+                    "597",
+                    "Butterfly carving (jade)"
+                ],
+                [
+                    "598",
+                    "Remains of a campfire"
+                ],
+                [
+                    "599",
+                    "Pewter cup"
+                ],
+                [
+                    "600",
+                    "Dead butterfly"
+                ]
+            ]
+          }
     ]
 }
