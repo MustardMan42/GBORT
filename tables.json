@@ -23394,6 +23394,222 @@
                     "Wheatear"
                 ]
             ]
+        },
+        {
+            "name": "Cursed Items",
+            "source": "RandomTables",
+            "page": "80-81",
+            "caption": "Cursed Item",
+            "colStyles": [
+                "col-2 text-center",
+                "col-10 text-left"
+            ],
+            "colLabels": [
+                "d100",
+                "Result"
+            ],
+            "rows": [
+                [
+                    "1-2",
+                    "Ring of Disappearance - The ring disappears when equipped"
+                ],
+                [
+                    "3-4",
+                    "Dagger of Volume - The wielder can only communicate by loudly shrieking"
+                ],
+                [
+                    "5-6",
+                    "Ring of Inn Visibility - Shows the wearer where all inns are within a 300-foot radius"
+                ],
+                [
+                    "7-8",
+                    "Ring of Personal Invisibility - The wearer is invisible only to themselves"
+                ],
+                [
+                    "9-10",
+                    "Necklace of the Opera - Causes the wearer to communicate only by operatic singing"
+                ],
+                [
+                    "11-12",
+                    "Cloak of Tongues - The wearer can taste anything within a 30-yard radius"
+                ],
+                [
+                    "13-14",
+                    "Deck of Not That Many Things - Only 9 cards, numbers counting to 10 (the number 8 is missing)"
+                ],
+                [
+                    "15-16",
+                    "Boots of Feather Falling - A ton of feathers fall on the wearer every time they step outside"
+                ],
+                [
+                    "17-18",
+                    "Bagpipes of Invisibility - The wielder is invisible as long as they are playing the bagpipes"
+                ],
+                [
+                    "19-20",
+                    "Necklace of Mind Reading - Anyone within a 30 feet radius can read the wearer's mind"
+                ],
+                [
+                    "21-22",
+                    "Shield of Overconfidence - Compels the bearer to take unnecessary risks"
+                ],
+                [
+                    "23-24",
+                    "Staff of Judgment - Judgmental talking staff; constant passive-aggressive comments"
+                ],
+                [
+                    "25-26",
+                    "Ring of Teleportation - The ring teleports anywhere the wearer wills; the wearer does not teleport with it"
+                ],
+                [
+                    "27-28",
+                    "Bag of Spewing - A bag of holding that shoots out items that are mentioned in a conversation"
+                ],
+                [
+                    "29-30",
+                    "Gauntlets of Hilarity - Causes the wearer to giggle uncontrollably at inappropriate times"
+                ],
+                [
+                    "31-32",
+                    "Warhammer of Chicken Detection - Glows bright yellow when there is a chicken within 30 feet"
+                ],
+                [
+                    "33-34",
+                    "Sword of Dancing - The wielder dances uncontrollably when in combat"
+                ],
+                [
+                    "35-36",
+                    "Gloves of Pickpocketing - Allows others to pickpocket the wearer easier"
+                ],
+                [
+                    "37-38",
+                    "Sword of Pain - Screams in agony whenever it hits something"
+                ],
+                [
+                    "39-40",
+                    "Amulet of Pitch - Causes the wearer's voice to be two octaves higher"
+                ],
+                [
+                    "41-42",
+                    "Shield of Protection - In combat, it uses the bearer's body to shield itself from harm"
+                ],
+                [
+                    "43-44",
+                    "Wand of Detect Magic Item - Detects the nearest magic item (itself)"
+                ],
+                [
+                    "45-46",
+                    "Ring of Confident Invisibility - The wearer becomes slightly stealthier; they also become convinced that they are completely invisible"
+                ],
+                [
+                    "47-48",
+                    "Helm of Relentless Growth - Causes the wearer's hair to grow so fast it pushes the helm off"
+                ],
+                [
+                    "49-50",
+                    "Mask of Near-Perfect Disguise - Disguises the wearer as a near-perfect imitation of themselves"
+                ],
+                [
+                    "51-52",
+                    "Singing Frog - Sings constantly when alone with its owner; stops singing and croaks like a normal frog when anyone else is near enough to hear it"
+                ],
+                [
+                    "53-54",
+                    "Vest of Cursed Hearing - The wearer can hear the DM as a voice in their head; others assume they are losing their mind when they speak of this"
+                ],
+                [
+                    "55-56",
+                    "Rock of Gravity Detection - Hold out and release, if it falls gravity is working"
+                ],
+                [
+                    "57-58",
+                    "Pants of Cursed Knowledge - The wearer is acutely aware of the fact that they are a character in a role-playing game; they are unable to convince others of this"
+                ],
+                [
+                    "59-60",
+                    "Hat of Luck Reversal - The wearer is generally unlucky, prone to ridiculous scenarios and sticky situations"
+                ],
+                [
+                    "61-62",
+                    "Axe of Scents - Does no damage; makes the target smell bad"
+                ],
+                [
+                    "63-64",
+                    "Necklace of Mind Control - Allows the wearer to control their own mind"
+                ],
+                [
+                    "65-66",
+                    "Glove of Slipperiness - Makes it difficult to hold items"
+                ],
+                [
+                    "67-68",
+                    "Goggles of Darkvision - Makes everything appear darker"
+                ],
+                [
+                    "69-70",
+                    "The Twin Daggers - Two sentient daggers that hate each other"
+                ],
+                [
+                    "71-72",
+                    "Hat of Marvel - Reduces the wearer's intelligence to 3, but convinces others that the wearer is a genius"
+                ],
+                [
+                    "73-74",
+                    "Candle of Flame Resistance - It's a fireproof candle"
+                ],
+                [
+                    "75-76",
+                    "Bag of Bags of Holding - A bag of holding that can only hold bags of holding"
+                ],
+                [
+                    "77-78",
+                    "Boots of Waterwalking - The wearer can walk on shallow water of 3 inches depth or less"
+                ],
+                [
+                    "79-80",
+                    "Boots of Tracking - Leaves behind deep footprints that are easy to track"
+                ],
+                [
+                    "81-82",
+                    "Sword of Lightning - 5% chance for the wielder to be struck by lightning when used"
+                ],
+                [
+                    "83-84",
+                    "Ring of the Ring - Allows the wearer to equip one more ring than they otherwise could"
+                ],
+                [
+                    "85-86",
+                    "Locket of Impression - After a few days of wearing this, the wearer has a vague impression that something isn't right but has no idea what"
+                ],
+                [
+                    "87-88",
+                    "Cloak of the Weather - A talking cloak that constantly complains about the weather"
+                ],
+                [
+                    "89-90",
+                    "Sword of Offense - A talking sword that insults the enemy, inflicting 3d6 emotional damage"
+                ],
+                [
+                    "91-92",
+                    "Mace of Healing - Heals the target up to 1D6 hit points; also does 1D6 bludgeoning damage"
+                ],
+                [
+                    "93-94",
+                    "Boots of Invisibility - Turns the wearer's feet invisible (the boots do not become invisible)"
+                ],
+                [
+                    "95-96",
+                    "Amulet of Existence - This amulet exists"
+                ],
+                [
+                    "97-98",
+                    "Emerald of Giving - Compels the wearer to give away all of their wealth and fortune until there is only the emerald left to give"
+                ],
+                [
+                    "99-100",
+                    "Ring of Attraction - Attracts bees and wasps"
+                ]
+            ]
         }
     ]
 }
