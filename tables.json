@@ -4870,7 +4870,7 @@
         {
             "name": "Rumors and Odd Jobs",
             "source": "RandomTables",
-            "page": "57-58",
+            "page": "56-58",
             "caption": "Rumor",
             "colStyles": [
                 "col-2 text-center",
@@ -17203,7 +17203,7 @@
                 ],
                 [
                     "63",
-                    "Cask of wine (dated 2D100 years old)"
+                    "Cask of wine (dated 2d100 years old)"
                 ],
                 [
                     "64",
@@ -17499,11 +17499,11 @@
                 ],
                 [
                     "33",
-                    "Merchant caravan (2D20 wagons)"
+                    "Merchant caravan (1d20 wagons)"
                 ],
                 [
                     "34",
-                    "Dead birds (3D100)"
+                    "Dead birds (3d100)"
                 ],
                 [
                     "35",
@@ -19707,7 +19707,7 @@
                 ],
                 [
                     "65",
-                    "Lost coin purse (3D100sp, 1d100gp)"
+                    "Lost coin purse (3d100sp, 1d100gp)"
                 ],
                 [
                     "66",
@@ -19747,7 +19747,7 @@
                 ],
                 [
                     "75",
-                    "Coin purse (2D20 silver pieces)"
+                    "Coin purse (1d20 silver pieces)"
                 ],
                 [
                     "76",
@@ -20019,7 +20019,7 @@
                 ],
                 [
                     "39",
-                    "Caravan of elves (2D20 individuals)"
+                    "Caravan of elves (1d20 individuals)"
                 ],
                 [
                     "40",
@@ -21079,7 +21079,7 @@
                 ],
                 [
                     "96",
-                    "Coins scattered all over the road (2D100cp)"
+                    "Coins scattered all over the road (2d100cp)"
                 ],
                 [
                     "97",
@@ -22007,7 +22007,7 @@
                 ],
                 [
                     "16",
-                    "Band of orcs building a wooden tower (2D20)"
+                    "Band of orcs building a wooden tower (1d20)"
                 ],
                 [
                     "17",
@@ -22115,7 +22115,7 @@
                 ],
                 [
                     "43",
-                    "Runaway slave camp (2D20 people)"
+                    "Runaway slave camp (1d20 people)"
                 ],
                 [
                     "44",
@@ -22350,7 +22350,7 @@
         {
             "name": "Talking Inanimate Objects",
             "source": "RandomTables",
-            "page": 6,
+            "page": 63,
             "caption": "Talking Inanimate Object",
             "colStyles": [
                 "col-2 text-center",
@@ -36599,7 +36599,7 @@
                 ],
                 [
                     "24",
-                    "Copper pieces (12D100)"
+                    "Copper pieces (12d100)"
                 ],
                 [
                     "25",
@@ -36679,7 +36679,7 @@
                 ],
                 [
                     "44",
-                    "Gold pieces (2D100)"
+                    "Gold pieces (2d100)"
                 ],
                 [
                     "45",
@@ -36687,7 +36687,7 @@
                 ],
                 [
                     "46",
-                    "Iron chest full of maps (2D20 rolls on Map Table)"
+                    "Iron chest full of maps (1d20 rolls on Map Table)"
                 ],
                 [
                     "47",
@@ -36715,7 +36715,7 @@
                 ],
                 [
                     "53",
-                    "Gold pieces (3D100)"
+                    "Gold pieces (3d100)"
                 ],
                 [
                     "54",
@@ -36855,7 +36855,7 @@
                 ],
                 [
                     "88",
-                    "Silver pieces (3D100)"
+                    "Silver pieces (3d100)"
                 ],
                 [
                     "89",
@@ -36875,7 +36875,7 @@
                 ],
                 [
                     "93",
-                    "Copper pieces (2D100)"
+                    "Copper pieces (2d100)"
                 ],
                 [
                     "94",
@@ -38203,7 +38203,7 @@
                 ],
                 [
                     "9",
-                    "Silver pieces (2D100)"
+                    "Silver pieces (2d100)"
                 ],
                 [
                     "10",
@@ -38271,7 +38271,7 @@
                 ],
                 [
                     "26",
-                    "Gold pieces (2D100)"
+                    "Gold pieces (2d100)"
                 ],
                 [
                     "27",
@@ -38399,7 +38399,7 @@
                 ],
                 [
                     "58",
-                    "Cooper pieces (3D100)"
+                    "Cooper pieces (3d100)"
                 ],
                 [
                     "59",
@@ -38471,7 +38471,7 @@
                 ],
                 [
                     "76",
-                    "Mummified hunting dogs (2D20)"
+                    "Mummified hunting dogs (1d20)"
                 ],
                 [
                     "77",
@@ -38495,7 +38495,7 @@
                 ],
                 [
                     "82",
-                    "Mummies (2D20)"
+                    "Mummies (1d20)"
                 ],
                 [
                     "83",
@@ -38563,7 +38563,7 @@
                 ],
                 [
                     "99",
-                    "Silver pieces (3D100)"
+                    "Silver pieces (3d100)"
                 ],
                 [
                     "100",
@@ -39011,7 +39011,7 @@
                 ],
                 [
                     "3",
-                    "Cotton (2D20 bales)"
+                    "Cotton (1d20 bales)"
                 ],
                 [
                     "4",
@@ -39059,7 +39059,7 @@
                 ],
                 [
                     "15",
-                    "Arrows (2D100)"
+                    "Arrows (2d100)"
                 ],
                 [
                     "16",
@@ -39111,7 +39111,7 @@
                 ],
                 [
                     "28",
-                    "Medicine (2D20 vials)"
+                    "Medicine (1d20 vials)"
                 ],
                 [
                     "29",
@@ -39175,7 +39175,7 @@
                 ],
                 [
                     "44",
-                    "Longswords (2D20)"
+                    "Longswords (1d20)"
                 ],
                 [
                     "45",
@@ -39187,7 +39187,7 @@
                 ],
                 [
                     "47",
-                    "Lumber (2D100 boards)"
+                    "Lumber (2d100 boards)"
                 ],
                 [
                     "48",
@@ -39231,7 +39231,7 @@
                 ],
                 [
                     "58",
-                    "Bronze ingots (3D100)"
+                    "Bronze ingots (3d100)"
                 ],
                 [
                     "59",
@@ -39319,7 +39319,7 @@
                 ],
                 [
                     "80",
-                    "Silver ingots (3D100)"
+                    "Silver ingots (3d100)"
                 ],
                 [
                     "81",
@@ -39335,7 +39335,7 @@
                 ],
                 [
                     "84",
-                    "Longbows (2D20)"
+                    "Longbows (1d20)"
                 ],
                 [
                     "85",
@@ -39347,7 +39347,7 @@
                 ],
                 [
                     "87",
-                    "Parchment (3D100 sheets)"
+                    "Parchment (3d100 sheets)"
                 ],
                 [
                     "88",
@@ -39371,7 +39371,7 @@
                 ],
                 [
                     "93",
-                    "Salted fish (2D20 barrels)"
+                    "Salted fish (1d20 barrels)"
                 ],
                 [
                     "94",
@@ -39383,7 +39383,7 @@
                 ],
                 [
                     "96",
-                    "Zinc ingots (2D100)"
+                    "Zinc ingots (2d100)"
                 ],
                 [
                     "97",
@@ -39399,7 +39399,7 @@
                 ],
                 [
                     "100",
-                    "Wine (2D20 bottles)"
+                    "Wine (1d20 bottles)"
                 ]
             ]
         },
@@ -39659,7 +39659,7 @@
                 ],
                 [
                     "61",
-                    "Scrap iron (2D20 pieces)"
+                    "Scrap iron (1d20 pieces)"
                 ],
                 [
                     "62",
@@ -39903,7 +39903,7 @@
                 ],
                 [
                     "18",
-                    "Silver pieces (3D100)"
+                    "Silver pieces (3d100)"
                 ],
                 [
                     "19",
@@ -39995,7 +39995,7 @@
                 ],
                 [
                     "41",
-                    "Wine bottles (2D20, empty)"
+                    "Wine bottles (1d20, empty)"
                 ],
                 [
                     "42",
@@ -40179,7 +40179,7 @@
                 ],
                 [
                     "87",
-                    "Gold pieces (2D100)"
+                    "Gold pieces (2d100)"
                 ],
                 [
                     "88",
@@ -40363,7 +40363,7 @@
                 ],
                 [
                     "29",
-                    "Vegetables (3D100)"
+                    "Vegetables (3d100)"
                 ],
                 [
                     "30",
@@ -40399,7 +40399,7 @@
                 ],
                 [
                     "38",
-                    "Books (3D100)"
+                    "Books (3d100)"
                 ],
                 [
                     "39",
@@ -40527,7 +40527,7 @@
                 ],
                 [
                     "70",
-                    "Wine bottles (2D100 empty, broken)"
+                    "Wine bottles (2d100 empty, broken)"
                 ],
                 [
                     "71",
@@ -40771,7 +40771,7 @@
                 ],
                 [
                     "27",
-                    "Logs (2D20, cedar, 1'x10')"
+                    "Logs (1d20, cedar, 1'x10')"
                 ],
                 [
                     "28",
@@ -40915,7 +40915,7 @@
                 ],
                 [
                     "63",
-                    "Bolts of velvet (2D20)"
+                    "Bolts of velvet (1d20)"
                 ],
                 [
                     "64",
@@ -41027,7 +41027,7 @@
                 ],
                 [
                     "91",
-                    "Crate of gold ingots (2D20 pieces)"
+                    "Crate of gold ingots (1d20 pieces)"
                 ],
                 [
                     "92",
@@ -41103,7 +41103,7 @@
                 ],
                 [
                     "6",
-                    "Wine barrel (filled with short swords, 2D20)"
+                    "Wine barrel (filled with short swords, 1d20)"
                 ],
                 [
                     "7",
@@ -41199,7 +41199,7 @@
                 ],
                 [
                     "30",
-                    "Wine bottles (shattered, 2D20)"
+                    "Wine bottles (shattered, 1d20)"
                 ],
                 [
                     "31",
@@ -41239,7 +41239,7 @@
                 ],
                 [
                     "40",
-                    "Wine bottles (3D100, full, red)"
+                    "Wine bottles (3d100, full, red)"
                 ],
                 [
                     "41",
@@ -41271,7 +41271,7 @@
                 ],
                 [
                     "48",
-                    "Wine bottles (2D20, full, fortified)"
+                    "Wine bottles (1d20, full, fortified)"
                 ],
                 [
                     "49",
@@ -41323,7 +41323,7 @@
                 ],
                 [
                     "61",
-                    "Wine bottles (2D100, full, white)"
+                    "Wine bottles (2d100, full, white)"
                 ],
                 [
                     "62",
@@ -41567,7 +41567,7 @@
                 ],
                 [
                     "18",
-                    "Collection of ancient scrolls (2D20)"
+                    "Collection of ancient scrolls (1d20)"
                 ],
                 [
                     "19",
@@ -41595,7 +41595,7 @@
                 ],
                 [
                     "25",
-                    "Packet of seeds (2D20)"
+                    "Packet of seeds (1d20)"
                 ],
                 [
                     "26",
@@ -44427,7 +44427,7 @@
                 ],
                 [
                     "5",
-                    "Iron nails (2D20)"
+                    "Iron nails (1d20)"
                 ],
                 [
                     "6",
@@ -47935,7 +47935,7 @@
                 ],
                 [
                     "50",
-                    "Copper pieces (2D100)"
+                    "Copper pieces (2d100)"
                 ],
                 [
                     "51",
@@ -48115,7 +48115,7 @@
                 ],
                 [
                     "95",
-                    "Seashells (2D20)"
+                    "Seashells (1d20)"
                 ],
                 [
                     "96",
